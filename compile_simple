@@ -1,0 +1,1 @@
+bin/lime.py build e5cards -o hanvien/e5cards/compiled/e5cards.js  -p e5cards.start
